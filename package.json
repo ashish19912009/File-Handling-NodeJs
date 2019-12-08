@@ -1,0 +1,14 @@
+{
+  "name": "filehandling-nodejs",
+  "version": "1.0.0",
+  "description": "All operations related to file handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Kr. Rena",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}

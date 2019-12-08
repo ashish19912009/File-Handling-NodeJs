@@ -1,0 +1,9 @@
+This is the string I want to write from buffer!
+This is the string I want to write from buffer!
+This is the string I want to write from String!
+This is the string I want to write from String!
+This is the string I want to write from String!
+This is the string I want to write from buffer!
+This is the string I want to write from buffer!
+This is the string I want to write from buffer!
+
